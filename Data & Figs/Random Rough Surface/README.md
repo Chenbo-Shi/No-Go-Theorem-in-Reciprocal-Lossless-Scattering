@@ -65,7 +65,7 @@ MATLAB script for plotting the **asymmetry measure of the first 50 eigenchannels
 
 ### `Channel_Lossless.mat`
 
-Dataset for the **lossless case** (PEC surface, $Z_s = 100\ \ Omega$).
+Dataset for the **lossless case** (PEC surface, $Z_s = 0$).
 
 Expected variables include:
 
