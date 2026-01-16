@@ -83,7 +83,7 @@ Expected variables include:
 Dataset for the **lossy case**, corresponding to:
 
 - Surface impedance:
-  - Zs=100 ΩZ_s = 100\,\OmegaZs=100Ω
+  - $Z_s= 100\ \Omega$
 
 Contains the same variable structure as `Channel_Lossless.mat`.
 
