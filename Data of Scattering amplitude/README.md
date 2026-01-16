@@ -55,7 +55,7 @@ Raw numerical data for the **random rough surface (lossless case)**.
 
 - Physical condition:
   - Perfect electric conductor (PEC), equivalent to
-     $Zs=0$
+     $Z_s=0$
 - Contains:
   - Scattering amplitude dyadic (**Sdyadic**)
   - Corresponding **T-matrix**
@@ -71,7 +71,7 @@ Raw numerical data for the **random rough surface (lossy case)**.
 
 - Physical condition:
   - Finite surface impedance
-     $Zs=100\,\Omega$
+     $Z_s=100\ \Omega$
 - Contains:
   - Scattering amplitude dyadic (**Sdyadic**)
   - Corresponding **T-matrix**
