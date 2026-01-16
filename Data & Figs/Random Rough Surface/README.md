@@ -96,8 +96,8 @@ Dataset containing the asymmetry measure for multiple eigenchannels.
 - Variable:
   - `err` : matrix where each column corresponds to a different physical case
     - Typically:
-      - `err(:,1)` → lossless case (Zs=0Z_s = 0Zs=0)
-      - `err(:,2)` → lossy case (Zs=100 ΩZ_s = 100\,\OmegaZs=100Ω)
+      - `err(:,1)` → lossless case ($Z_s = 0$)
+      - `err(:,2)` → lossy case ($Z_s=100\ \Omega$)
 
 Used by:
 
