@@ -26,7 +26,7 @@ MATLAB Live Script for visualizing eigenchannel radiation patterns of a random r
 
 - Surface condition:
   - Perfect electric conductor (PEC), equivalent to
-    - Surface impedance: Zs=0Z_s = 0Zs=0
+    - Surface impedance: $Z_s = 0$
 - Loads data from: `Channel_Lossless.mat`
 - Features:
   - 3D radiation pattern visualization using `surf`
@@ -42,7 +42,7 @@ MATLAB Live Script for visualizing eigenchannel radiation patterns of a random r
 
 - Loss mechanism:
   - Finite surface impedance
-    - Zs=100 ΩZ_s = 100\,\OmegaZs=100Ω
+    - $Z_s=100\ \Omega$
 - Loads data from: `Channel_Lossy.mat`
 - Otherwise identical in structure and usage to the lossless script, enabling direct comparison between the two cases.
 
